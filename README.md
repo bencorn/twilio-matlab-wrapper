@@ -8,7 +8,7 @@ client = TwilioClient('AccountSID', 'AuthToken');
 
 You can find your Account SID and AuthToken from the Twilio Console.
 
-Step 2 - Send Message
+### Step 2 - Send Message
 
 client.SendMessage('TO','FROM','This is a test SMS message sent from Twilio');
 
