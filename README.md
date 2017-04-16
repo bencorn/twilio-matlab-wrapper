@@ -14,7 +14,7 @@ client.SendMessage('TO','FROM','This is a test SMS message sent from Twilio');
 
 The To and From phone number must be formatted with the country code at the beginning. For example:
 
-888 999 9898 -> +18889999898  nb
+888 999 9898 -> +18889999898  
 
 All numbers must include the country code and no spaces, hyphens, dashes, periods, etc. should exist in the number.
 
